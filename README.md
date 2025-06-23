@@ -25,16 +25,3 @@ I'm a systems engineer with a strong interest in software development, artificia
   "Operating Systems": ["Linux", "Windows"],
   "Others": ["Git", "Docker"]
 }
-💻 I specialize in transforming data into actionable insights and building software that solves real-world problems effectively.
-
-📌 Featured Projects
-📂 I’m currently developing my first projects focused on data science, AI, and automation. Stay tuned!
-
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jninoA01&show_icons=true&theme=github_dark" width="450"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jninoA01&layout=compact&theme=github_dark" width="350"/> </p>
-📬 Contact
-📧 Email: juliannino102@gmail.com
-
-🔗 LinkedIn: linkedin.com/in/julian-niño-alvarez-037957228
-
-⭐ Thanks for visiting my profile! I'm open to collaboration and always eager to learn and build meaningful solutions.
