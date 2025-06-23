@@ -1,45 +1,49 @@
-<h1 align="center">🙌 Hi, I'm Julián Niño</h1>
+<h1 align="center">Hey there! I'm Julián Niño 👨‍💻</h1>
 
 <p align="center">
-🛠️ Systems Engineer | 💡 Software Developer<br>
-📊 Interested in Artificial Intelligence & Data Science
+A Systems Engineer who loves to turn ideas into clean, functional code. <br>
+Big fan of AI, data-driven solutions, and continuous learning. 🚀
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧩 Who I Am
 
-I'm a systems engineer passionate about AI, data science, and software development. I’m currently working on personal projects to explore these areas through practical, real-world applications.
+I'm a tech enthusiast who enjoys solving problems through code.  
+Whether it's building software, analyzing data, or exploring machine learning,  
+I believe in learning by doing — and building things that matter.
 
----
+I'm currently working on personal projects focused on:
 
-## ⚙️ Technologies and Tools
-
-```json
-{
-  "Languages": ["Python", "Java", "JavaScript", "C"],
-  "Frameworks": ["Django", "Flask", "Node.js"],
-  "Libraries and Tools": ["Pandas", "NumPy", "Matplotlib", "Scikit-Learn"],
-  "Databases": ["PostgreSQL", "MySQL"],
-  "Data Visualization": ["Matplotlib", "Seaborn", "Excel"],
-  "Operating Systems": ["Linux", "Windows"],
-  "Others": ["Git", "Docker"]
-}
-```
-💻 I specialize in transforming data into actionable insights and building software that solves real-world problems effectively.
+- 🧠 Artificial Intelligence  
+- 📊 Data Science  
+- 💻 Software Development
 
 ---
 
-## 📌 My Projects
+## 🛠️ Tech Stack
 
-📂 I’m currently developing my first projects focused on data science, AI, and automation. Stay tuned!
+- **Languages:** Python, Java, JavaScript, C  
+- **Frameworks:** Django, Flask, Node.js  
+- **Data & Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib  
+- **Databases:** PostgreSQL, MySQL  
+- **Tools:** Git, GitHub, Docker  
+- **Operating Systems:** Linux, Windows
 
 ---
-## 📬 Contact
 
-- 📧 [Email](mailto:juliannino102@gmail.com)
-- 🌐 [Linkedin](https://www.linkedin.com/in/julian-ni%C3%B1o-alvarez-037957228)
+## 📌 What I'm Working On
+
+🚧 I'm actively developing new projects to explore AI, automation, and data-driven apps.  
+They’ll be available here soon — stay tuned!
 
 ---
 
-⭐ Thanks for visiting my profile! I'm open to collaboration and always eager to learn and build meaningful solutions.
+## 📫 Let's Connect
+
+- 📬 [Email me](mailto:juliannino102@gmail.com)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/julian-ni%C3%B1o-alvarez-037957228)
+
+---
+
+_Thanks for stopping by — let’s build something amazing together! ✨_
